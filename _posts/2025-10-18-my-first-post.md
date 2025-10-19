@@ -1,3 +1,14 @@
+---
+layout: post
+title: "My First Post"
+author: Me
+category: misc
+tags: [test, mathjax]
+use_math: true
+lang: zh-cn
+style: "blockquote {text-align: right;} h3, h4 {text-align: center;}"
+---
+
 # My First Post
 
 This is the first post on my personal blog, which is powered by Jekyll & Minimal Mistakes.
